@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(198, 178, 178);
+}
+p, h1, table, tr,td,th{
+    color: aliceblue;
+    font-family: Arial, sans-serif;
+    border: 1px solid black ;
+    padding: 1px;
+}
+
+a:hover {
+    background-color: yellow;
+    font-size: 18px;
+  }
